@@ -1,7 +1,7 @@
 About
 =====
 
-My implementation of the game Checkers for the course "Artificial Intelligence", illustrating concepts wuch as the [minimax](https://en.wikipedia.org/wiki/Minimax) and [alpha-beta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning).
+My implementation of the game checkers for the course "Artificial Intelligence", illustrating concepts such as [minimax](https://en.wikipedia.org/wiki/Minimax) and [alpha-beta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning).
 
 A [description of the assignment](https://open.kattis.com/problems/checkers) can be found on Kattis. It looks like the assignment may have changed slighly over the years. A screenshot of the original assignment has been committed to this repository.
 
