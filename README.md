@@ -24,4 +24,4 @@ playing as white.
 
 # Other
 
-A Checkers visualizer is available at GitHub [here](https://github.com/aliquis/kth-ai14-checkers-visualizer).
+A Checkers visualizer is available on GitHub [here](https://github.com/aliquis/kth-ai14-checkers-visualizer).
